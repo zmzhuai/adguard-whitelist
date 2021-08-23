@@ -5,3 +5,4 @@
 ||1.www.s81c.com^
 ||api-access.pangolin-sdk-toutiao.com^
 ||ib.snssdk.com^
+||ic.snssdk.com^
