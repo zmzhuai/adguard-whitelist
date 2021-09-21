@@ -6,3 +6,4 @@
 ||api-access.pangolin-sdk-toutiao.com^
 ||ib.snssdk.com^
 ||ic.snssdk.com^
+||tags.tiqcdn.com^
