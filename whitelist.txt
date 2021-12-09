@@ -7,3 +7,5 @@
 ||ib.snssdk.com^
 ||ic.snssdk.com^
 ||tags.tiqcdn.com^
+@@||ad.freetrydeal.com^$important
+@@||metrics.icloud.com^$important
